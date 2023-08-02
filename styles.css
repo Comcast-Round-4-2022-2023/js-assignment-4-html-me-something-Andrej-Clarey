@@ -1,1 +1,47 @@
 /* Write your CSS here! */
+
+body {
+        margin: 8px;
+        padding: 25px;
+        background-color: aqua;
+}
+
+#mainHeading {
+    color: red;
+    text-align: center;
+}
+
+.funParagraph{
+    background-color: rgb(243, 243, 233);
+    color: green;
+    padding: 25px;
+    width: 90%;
+    align-items: right;
+}
+
+#pasta{
+position: relative;
+display: flex;
+padding: 10px;
+}
+
+.evolution{
+display: flex;
+position: relative;
+float: right;
+padding: 25px;
+}
+
+div{
+    display: flex;
+    justify-content: space-between;
+}
+
+h2{
+    color: blueviolet;
+    padding: 25px;
+}
+#list{
+    display:block;
+    padding: 25px;
+}
