@@ -12,14 +12,17 @@ body {
 }
 
 .funParagraph{
-    background-color: yellow;
+    background-color: rgb(243, 243, 233);
     color: green;
     padding: 25px;
+    width: 90%;
+    align-items: right;
 }
 
 #pasta{
 position: relative;
 display: flex;
+padding: 10px;
 }
 
 .evolution{
@@ -32,10 +35,13 @@ padding: 25px;
 div{
     display: flex;
     justify-content: space-between;
-    
 }
 
 h2{
     color: blueviolet;
+    padding: 25px;
+}
+#list{
+    display:block;
     padding: 25px;
 }
